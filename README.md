@@ -9,10 +9,6 @@ https://github.com/ameer-alwadiya/real-time-accelerometer/assets/127532790/6cc7d
 - **Button Thread**: Manages button interactions to control which thread is active.
 - **I2C and I2S Thread**: Handles audio output through I2S and I2C interfaces.
 
-## UML Design
-
-A UML diagram illustrating the program structure and interactions is provided in the `Report.pdf` file. 
-
 ## Levels of Implementation
 
 ### Level 1 - Creating a Dynamic Two-Axis Tilt Switch Interface
