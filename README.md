@@ -66,6 +66,6 @@ https://github.com/ameer-alwadiya/real-time-accelerometer/assets/127532790/6cc7d
 3. **Upload**: Flash the compiled binary to your hardware.
 
 
-For any questions or support, please contact [Ameer Alwadiya](ameer.alwadiya@outlook.com).
+For any questions or support, please contact ameer.alwadiya@outlook.com.
 
 
